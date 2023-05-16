@@ -1,2 +1,4 @@
-package utils;public class OSMAPILoader {
+package utils;
+
+public class OSMAPILoader {
 }
